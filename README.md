@@ -1,7 +1,7 @@
 Starter
 =======
 
-Starter Maven Project with Spring and Apache CXF. The configuration is entirely in Java (no XML).
+Starter Maven Project with [Spring Framework](http://projects.spring.io/spring-framework/) and [Apache CXF](http://cxf.apache.org/). The configuration is entirely in Java (no XML).
 
 ## Run
 
